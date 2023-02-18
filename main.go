@@ -102,6 +102,12 @@ func main() {
 }
 
 var readmeTemplate = []byte(`
+# Husni Alhamdani
+
+### Biography 
+
+> Husni Alhamdani, Site reliability Engineer, Graduated LFX 2022 Spring, 3x Kubernetes Certified (KCNA-BETA, CKA, CKS) --> the first Kubernetes certified holder from Indonesia.
+
 TECH TALK
 ====
 
