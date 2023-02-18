@@ -3,7 +3,7 @@
   event:
     name: DevOpsDays Jakarta 2022
     url: https://www.devopsdaysjkt.org/
-  dateTime: 2020-01-18T00:00:00+0700
+  dateTime: 2022-08-10T00:00:00+0700
   artifact:
     slide: https://docs.google.com/presentation/d/1wdmKsmlJ9pAoSb6KlMhg1c34QE8JduU43d8g776u1Hg
     video: https://drive.google.com/file/d/1GKZ--VEqOjQ2Dy3ngCEJ8fymYvwdP-6s/view
@@ -16,7 +16,7 @@
   event:
     name: Kubernetes Cloud Native Online Meetup
     url: https://www.youtube.com/@CloudNativeIndonesia
-  dateTime: 2020-01-18T00:00:00+0700
+  dateTime: 2022-07-28T00:00:00+0700
   artifact:
     slide: ""
     video: https://www.youtube.com/live/Y4wG1tbfi8E?feature=share&t=2028
@@ -28,7 +28,7 @@
   event:
     name: Kubernetes Community Days Indonesia 2021
     url: https://community.cncf.io/events/details/cncf-kcd-indonesia-presents-kubernetes-community-days-indonesia-2021
-  dateTime: 2020-01-18T00:00:00+0700
+  dateTime: 2021-11-27T00:00:00+0700
   artifact:
     slide: https://docs.google.com/presentation/d/1AQkYa-TyvGaETdiArTwM5xfAN3Oi_4IrRpiahYHJ-70
     video: https://www.youtube.com/watch?v=5OLiWj1yf44
@@ -42,7 +42,7 @@
   event:
     name: Kubernetes Cloud Native Online Meetup 
     url: https://www.youtube.com/@CloudNativeIndonesia
-  dateTime: 2020-01-18T00:00:00+0700
+  dateTime: 2021-05-27T00:00:00+0700
   artifact:
     slide: https://docs.google.com/presentation/d/1dHB6Ps7P9D-dXs9Xa8AxE71aIFTl6Y-62BJSPpuDbbM
     video: https://www.youtube.com/live/XM8MHy8AFyI?feature=share&t=1497
@@ -54,7 +54,7 @@
   event:
     name: Openstack & OpenInfra Indonesia
     url: ""
-  dateTime: 2020-01-18T00:00:00+0700
+  dateTime: 2020-11-02T00:00:00+0700
   artifact:
     slide: ""
     video: https://www.youtube.com/watch?v=0HVR57CJVh0
@@ -67,7 +67,7 @@
   event:
     name: Kubernetes Cloud Native Online Meetup
     url: ""
-  dateTime: 2019-01-18T00:00:00+0700
+  dateTime: 2019-05-13T00:00:00+0700
   artifact:
     slide: ""
     video: https://www.youtube.com/watch?v=AX-Rgs0SRrs
